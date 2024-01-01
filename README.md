@@ -1,0 +1,2 @@
+# Project Euler
+Leonhard Euler (born April 15, 1707, Basel, Switzerland—died September 18, 1783, St. Petersburg, Russia) was a Swiss mathematician and physicist, one of the founders of pure mathematics. He not only made decisive and formative contributions to the subjects of geometry, calculus, mechanics, and number theory but also developed methods for solving problems in observational astronomy and demonstrated useful applications of mathematics in technology and public affairs.
